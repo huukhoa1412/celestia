@@ -11,7 +11,7 @@ npm install telegraf nodemon axios start --save
 
 - Download the repo, then open `create.js` to add API of your BOT
 ```
-wget -O create.js https://raw.githubusercontent.com/tunguyen9234/celestia/task/botcheck/create.js
+wget -O create.js https://raw.githubusercontent.com/huukhoa1412/celestia/task/botcheck/create.js
 ```
 # Start BOT
 ```
